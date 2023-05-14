@@ -1,5 +1,11 @@
 ## goFinder
 
+### Features:
+```bash
+if you want to find in a list of urls if one of thoses has the '/.git/config' or '/.env' or '/phpmyadmin' and '/info.php' open
+this is the best Finder.
+```
+
 ### Creator:
 ```bash
 https://github.com/SegFault42
