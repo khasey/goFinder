@@ -1,6 +1,15 @@
 ## goFinder
 
+### Creator:
+```bash
+https://github.com/SegFault42
+im just here to improved this program
+```
+
 #### Usage:
+
+-download the repo
+-"go build ." inside the folder
 
 ```bash
 -i string
